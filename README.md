@@ -1,3 +1,3 @@
 # RentoMojo
 Assignment:
-It is just a web page
+Login page for the user 
